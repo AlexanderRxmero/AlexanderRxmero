@@ -1,25 +1,31 @@
-<h1 align="center">Cats!</h1>
+<h1 align="center">Hi, there!</h1>
 
-![Banner](Kitten's_Game,_(ca._1860).png)
+<p align="center">
+  <!-- Aquí ajustas el tamaño con width (ej. 400px o 50%). Se centró para que combine con el título -->
+  <img src="Kitten’s%20Game%2C%20(ca.%201860).png" alt="Banner" width="45%">
+</p>
 
-<!--
-**AlexanderRxmero/AlexanderRxmero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
--->
+## ⚡ Quick Facts About Me
+
 <ul>
-  <li>🎉: 15 de septiembre</li>
-  <li>💻: IT Engineer</li>
-  <li>❤️‍🔥: Swiftie</li>
+  <li>🎉 <b>Birthday:</b> <kbd>September 15, 2006</kbd></li>
+  <li>💻 <b>Profession:</b> <kbd>Information Technology Engineer student</kbd></li>
+  <li>❤️‍🔥 <b>Fandom:</b> <kbd>Swiftie</kbd></li>
 </ul>
 
+---
 
-## Mis habilidades
- <h4> Bases de datos </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
-<h4> Lenguajes </h4>
-<span> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</span>
+## 🛠️ My Skills
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white">
+    </td>
+  </tr>
+</table>
