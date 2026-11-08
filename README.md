@@ -12,7 +12,6 @@
 <ul>
   <li>🎉 <b>Birthday:</b> <kbd>September 15, 2006</kbd></li>
   <li>💻 <b>Profession:</b> <kbd>Information Technology Engineer student</kbd></li>
-  <li>❤️‍🔥 <b>Fandom:</b> <kbd>Swiftie</kbd></li>
 </ul>
 
 ---
